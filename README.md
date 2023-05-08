@@ -25,13 +25,15 @@ Este é um projeto CRUD (Create, Read, Update, Delete) de recados desenvolvido e
 
 ## Como Usar
 
-1. Crie um novo usuário na página de cadastro com um e-mail e senha
-2. Faça login na página de login com o e-mail e senha cadastrados
-3. Na página inicial, clique em "Novo Recado" para criar um novo recado
-4. Preencha o título e a descrição do recado e clique em "Salvar"
-5. Visualize todos os recados cadastrados na página inicial
-6. Para editar um recado, clique no botão "Editar" ao lado do recado desejado
-7. Para excluir um recado, clique no botão "Excluir" ao lado do recado desejado
+UTILIZE O POSTMAN PARA RODAR OS COMANDOS COM O ENDEREÇO https://thamires-node-js.onrender.com
+
+1. Crie um novo usuário na página de cadastro com um e-mail e senha - https://thamires-node-js.onrender.com/api/usuarios
+2. Faça login na página de login com o e-mail e senha cadastrados - https://thamires-node-js.onrender.com/api/login
+3. Para criar um novo recado preencha o título e a descrição do recado- https://thamires-node-js.onrender.com/api/recados
+4. Visualize todos os recados cadastrados na página inicial - https://thamires-node-js.onrender.com/api/recados
+5. Buscar/visualizar recado por id - https://thamires-node-js.onrender.com/api/recados/:id
+5. Para editar um recado, informe o id do recado desejado - https://thamires-node-js.onrender.com/api/recados/:id
+6. Para excluir um recado, informe o id do recado desejado - https://thamires-node-js.onrender.com/api/recados/:id
 
 ## Contribuição
 

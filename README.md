@@ -20,7 +20,7 @@ Este é um projeto CRUD (Create, Read, Update, Delete) de recados desenvolvido e
 
 1. Clone este repositório em sua máquina local
 2. Instale as dependências do projeto com o comando `npm install`
-3. Inicie o servidor com o comando `npm start`
+3. Inicie o servidor com o comando `node index.js`
 4. Acesse a aplicação em seu navegador no endereço `http://localhost:1425`
 
 ## Como Usar
